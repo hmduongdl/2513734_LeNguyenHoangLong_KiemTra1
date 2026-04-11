@@ -1,0 +1,5 @@
+Lap trinh HDT, Giao duc, 100, 60
+Cau truc DL&TG1, Giao duc, 150, 100
+Bao tri may tinh, Da Nang, 400, 510
+AI, Quoc gia Ha Noi, 150, 350
+Lap trinh C/C++, Quoc gia Ha Noi, 80, 100
